@@ -1,9 +1,5 @@
-import os
 import sys
-import glob
-import PIL
 import cv2
-import imageio
 import cvlib as cv
 import matplotlib.pyplot as plt
 import numpy as np
