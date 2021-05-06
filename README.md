@@ -44,11 +44,11 @@ Python으로 구동가능합니다.
 
 #### 모델 실행하기
 - 이미지
-> python run_fmdm_image.py "이미지 파일 경로"
+> python run_fmdm_image.py "이미지 파일 경로"\
 *ex)python run_fmdm_image.py "C:/image.png"*
 
 - 영상
-> python run_fmdm_video.py "비디오 파일 경로"
+> python run_fmdm_video.py "비디오 파일 경로"\
 *ex)python run_fmdm_video.py ""*
 
 - 캠 *(아쉽게도 캠이 없어서 만들지 못함)*
